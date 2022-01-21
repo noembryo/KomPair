@@ -5,11 +5,12 @@
 **KomPair** is a utility for viewing, edit or translate two text files side by side.
 
 
-* Open independent text files or setups of two</li>
-* Translate from/to more than 100 languages (using Google translate)</li>
-* Easy to use drag & drop interface</li>
-* Lock and synchronize the scrollbar movements</li>
-* Spell checking with the option of using your own dictionaries</li>
+* Open independent text files or setups of two
+* Translate from/to more than 100 languages (using Google translate)
+* Subtitle (.srt) specific translations
+* Easy to use drag & drop interface
+* Lock and synchronize the scrollbar movements
+* Spell checking with the option of using your own dictionaries
 
 ___
 #### Screenshots
